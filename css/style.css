@@ -10,3 +10,6 @@ a {
 	text-decoration: none;
 	color: #900;
 }
+img {
+	border: 10px solid black;
+}
